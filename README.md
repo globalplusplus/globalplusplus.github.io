@@ -1,3 +1,3 @@
-# PokeGo2 is shutting down..
-## Thanks to everyone who supported us, especially YSiN for keeping the service alive for the past months. If you wish to support him, make sure to join his Discord server: https://discord.gg/6u2ffPm
-### PokeGo2 will not come back. Anything you see with the same name is probably fake. Check this Website for anything new, we will update you if we ever come back.
+# Are you looking for PokeGo2?
+## Well, i got bad news for you - it's completely shutdown now. All we offer now are coordinates on Discord, which you can find by clicking the link below. It's a server run by friends and other people who have supported us, make sure to give them something back for all their work. Goodbye, Trainers!
+### https://discord.gg/6u2ffPm - Permanent Invite Link to the Discord Server
