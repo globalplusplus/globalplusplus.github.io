@@ -1,6 +1,6 @@
 ### Hi there 👋 1111
 
-GHey
+# g
 
 <!--
 **globalplusplus/globalplusplus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
