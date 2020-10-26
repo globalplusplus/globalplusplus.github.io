@@ -3,3 +3,5 @@
 ### Permanent Invite: https://discord.gg/6u2ffPm
 
 [CLICK HERE FOR THE WEBSITE](https://pokemongocoordinates.ga)
+
+![Alt Text](https://i.ibb.co/5817mML/PGC-Server-Logo.png)
