@@ -1,7 +1,9 @@
-# Are you looking for Global++ / PokeGo2?
-## Well, i got bad news for you - it's completely shutdown now. All we offer now are coordinates on Discord, which you can find by clicking the link below.
-### Permanent Invite: https://discord.gg/6u2ffPm
+# PokeGo2 has moved to Pokemon Go Coordinates
+## We got some bad news, PokeGo2 has been shutdown. Luckily, they have moved to another service..
 
-[CLICK HERE FOR THE WEBSITE](https://pokemongocoordinates.ga)
+⬩ 🌍 [Visit their Website](https://pokemongocoordinates.ga)
+⬩ 💬 [Visit their Discord](https://pokemongocoordinates.ga/discord)
+⬩ 🐦 [Visit their Twitter](https://pokemongocoordinates.ga/twitter)
+⬩ 📸 [Visit their Youtube](https://pokemongocoordinates.ga/youtube)
 
-![Alt Text](https://i.ibb.co/5817mML/PGC-Server-Logo.png)
+![Logo](https://i.ibb.co/5817mML/PGC-Server-Logo.png)
