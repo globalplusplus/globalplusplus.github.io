@@ -1,7 +1,6 @@
-# PokeGo2 has moved to Pokemon Go Coordinates!
-## ⬩ 🌍 [Visit their Website for an Introduction](https://pokemongocoordinates.ga)
-## ⬩ 💬 [Join their Discord to get coordinates](https://pokemongocoordinates.ga/discord)
-## ⬩ 🐦 [Follow their Twitter for announcements](https://pokemongocoordinates.ga/twitter)
-## ⬩ 📸 [Subscribe to their Youtube for guides](https://pokemongocoordinates.ga/youtube)
+# PokeGo2 / Global++ has moved to Pokemon Go Coordinates!
+## 🔹 [Visit the Website for an Introduction](https://pokemongocoordinates.ga)
+## 🔹 [Join the Discord for free coordinates](https://discord.gg/jme4kjz)
+## 🔹 [Follow the Twitter for free coordinates](https://twitter.com/pgcoordinates)
 
-![Logo](https://i.ibb.co/5817mML/PGC-Server-Logo.png)
+![Logo](https://pokemongocoordinates.ga/Pokemon%20Go%20Coordinates_files/image01.jpg)
